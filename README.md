@@ -2,12 +2,15 @@
 
 Free tools is desktop application software subset of small, quick and handy tools with minimal and useful setup of control and functionality, created and used in [TAI lab](https://ladooniani.github.io/tailab/) workflow environment.
 
+# Tools
 
-## Registration
+⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with set of structure configuration options and property preferences setting.
 
-1. Download and install "Cilist"
-  
-2. Verify email and accept confirmation to register account auto login
+⬤ "Observer" desktop application provides simple wired basic video monitoring (e.g. device process), saving the frame and motion/stillness detection indication. 
 
-   Note: To keep account access, do not change tailab_userx.txt. Or you can remove account record with load of new registration, previously delinting file from Tailab project folder.
-   To uninstall program from default installation path C:/Program Files (x86)/TAI_Lab/Cilist go to Control Panel/Programs/Programs and Features and uninstall application.
+## Support project
+
+Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
+
+To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
+
