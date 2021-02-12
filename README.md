@@ -8,9 +8,13 @@
 
 [Cilist v1.0.7712.39706](https://github.com/ladooniani/freetools/releases/tag/1.0.7712.39706)
 
+[Source code](https://github.com/ladooniani/tailab-tools-cilist)
+
 ⬤ "Observer" desktop application provides simple wired basic video monitoring (e.g. device process), saving the frame and motion/stillness detection indication. 
 
 [Observer v1.0.7712.39953](https://github.com/ladooniani/freetools/releases/tag/1.0.7712.39953)
+
+[Source code](https://github.com/ladooniani/tailab-tools-observer)
 
 ## Support project
 
