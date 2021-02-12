@@ -1,6 +1,4 @@
-# TAI Lab
-
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tailab_terbinari.png)
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari.png) #TAI Lab
 
 ## Freetools
 
