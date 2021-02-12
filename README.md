@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/1.svg) 
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai-lab.png) 
 
 # Freetools
 
