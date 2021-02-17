@@ -4,11 +4,11 @@
 
 ## Freetools
 
-[Free tools](https://github.com/ladooniani/freetools/releases) is desktop application software subset of small, quick and handy tools with minimal and useful setup of control and functionality, created and used in [TAI lab](https://ladooniani.github.io/tailab/) workflow environment.
+[Free tools](https://github.com/ladooniani/freetools/releases) is a desktop application software subset of small, quick, and handy tools with minimal and useful setup of control and functionality, created and used in [TAI lab](https://ladooniani.github.io/tailab/) workflow environment.
 
 ## Tools
 
-⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with set of structure configuration options and property preferences setting.
+⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with a set of structure configuration options and property preferences setting.
 
 [Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
 
@@ -18,7 +18,7 @@
 
 ## Support project
 
-Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
+Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
 
 To support project follow dnation link: 
 
