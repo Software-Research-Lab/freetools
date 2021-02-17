@@ -20,4 +20,8 @@
 
 Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
 
-To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
+To support project follow dnation link: 
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
+</a>
