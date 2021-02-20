@@ -14,7 +14,7 @@
 
 ⬤ "Observer" desktop application provides simple wired basic video monitoring (e.g. device process), saving the frame and motion/stillness detection indication. 
 
-[Observer v1.0.7714.4713](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.35251)
+[Observer v1.0.7714.4713](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.36574)
 
 ## Support project
 
