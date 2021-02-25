@@ -8,13 +8,13 @@
 
 ## Tools
 
-💾 "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with a set of structure configuration options and property preferences setting.
+• "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with a set of structure configuration options and property preferences setting.
 
-[Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
+💾 [Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
 
-💾 "Observer" desktop application provides simple wired basic video monitoring (e.g. device process), saving the frame and motion/stillness detection indication. 
+• "Observer" desktop application provides simple wired basic video monitoring (e.g. device process), saving the frame and motion/stillness detection indication. 
 
-[Observer v1.0.7721.37337](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.37337)
+💾 [Observer v1.0.7721.37337](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.37337)
 
 ## Support project
 
