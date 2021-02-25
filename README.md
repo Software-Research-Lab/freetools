@@ -25,3 +25,5 @@ To support the project follow the donation link:
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
 </a>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.freetools)
