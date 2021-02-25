@@ -4,7 +4,7 @@
 
 ## Freetools
 
-[Free tools](https://github.com/ladooniani/freetools/releases) is a desktop application software subset of small, quick, and handy tools with minimal and useful setup of control and functionality, created and used in [TAI lab](https://ladooniani.github.io/tailab/) workflow environment.
+[Free tools](https://github.com/ladooniani/freetools/releases) is a desktop application software subset of small, quick, and handy tools with minimal and useful setup of control and functionality, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) workflow environment.
 
 ## Tools
 
