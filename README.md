@@ -16,7 +16,7 @@
 
 💾 [Observer v1.0.7721.37337](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.37337)
 
-## 💖 Support project
+## ❤️ Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
 
