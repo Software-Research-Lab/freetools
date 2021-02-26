@@ -12,7 +12,7 @@
 
 Read more and download: 
 
-⬤[Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
+⬤ [Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
 
 ## Observer
 
@@ -20,7 +20,7 @@ Read more and download:
 
 Read more and download: 
 
-⬤[Observer v1.0.7721.37337](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.37337)
+⬤ [Observer v1.0.7721.37337](https://github.com/ladooniani/freetools/releases/tag/1.0.7721.37337)
 
 ## 💖 Support project
 
