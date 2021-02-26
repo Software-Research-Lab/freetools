@@ -8,7 +8,9 @@
 
 ## Tools
 
-⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with a set of structure configuration options and property preferences setting.
+### ⬤ "Cilist"
+
+Desktop application provides processing or raw input text to duplicate-free alphabetical order list and basic element initializers collection types, like List and Dictionary with a set of structure configuration options and property preferences setting.
 
 💾 [Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
 
