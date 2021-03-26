@@ -36,6 +36,8 @@ To support the project follow the donation link:
 
 ### 🔬 [TAI lab](https://github.com/ladooniani/terbinari) 
 
-❕ [Artwork Copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
+### Content info
+
+[Artwork Copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.freetools)
