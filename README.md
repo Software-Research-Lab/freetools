@@ -2,7 +2,7 @@
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
  
- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg)
+ ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img0.jpg)
 
 ## Freetools
 
