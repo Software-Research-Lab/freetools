@@ -10,7 +10,7 @@
 
 ## Cilist
 
-⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free alphabetical order List and Dictionary with a set of structure configuration options and property preferences setting.
+⬤ "Cilist" desktop application provides processing or raw input text to duplicate-free List and Dictionary order with a set of structure configuration options and property preferences setting.
 
 Read more and download: 
 
