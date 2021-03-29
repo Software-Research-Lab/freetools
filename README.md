@@ -14,7 +14,7 @@
 
 Read more and download: 
 
-💾 [Cilist v1.0.7715.33757](https://github.com/ladooniani/freetools/releases/tag/1.0.7715.33757)
+💾 [Cilist v1.0.7758.6902](https://github.com/ladooniani/freetools/releases/tag/1.0.7758.6902)
 
 ## Observer
 
