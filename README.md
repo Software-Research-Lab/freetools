@@ -1,7 +1,15 @@
- #  Free tools
+  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
+**Toy Artificial Intelligence\
+Research, innovation and technology development\
+Intelligent systems and robotics laboratory**
+
+#
+ 
+ #  Free tools
+ 
  ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img0.jpg)
 
 ## Free tools
